@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional</a></h1>
 
-<h2> Key Information Technology Projects:</h2>
+<h2> Key Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/1/osticket-prereqs)
