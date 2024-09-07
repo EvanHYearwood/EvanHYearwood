@@ -3,15 +3,15 @@
 <h2> Key Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config)
-  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) 
+  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config) (Video in progress)
+  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle) (Video in progress)
  
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols)
-  - [DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) (Video in progress)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) (Video in progress)
+  - [DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) (Video in progress)
 
 <h2>Certifications:</h2>
 <ul>
