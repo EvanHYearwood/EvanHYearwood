@@ -17,7 +17,7 @@
 <ul>
   <li><b>Google Cyber Security Professional Certification</b> (Completed a 6-month course)</li>
   <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
-  <li><b>CourseCareers IT Professional</b> (In Progress, expected completion in Late September)</li>
+  <li><b>CourseCareers IT Professional</b></li>
   <li><b>CompTIA Network+</b> (In Progress, expected completion in November)</li>
 </ul>
 
