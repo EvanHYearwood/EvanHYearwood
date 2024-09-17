@@ -1,4 +1,5 @@
-<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional</a></h1>
+<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1> 
+<li>I've completed over 100 hours of lab-work regarding IT Support and Cyber Security</li>
 
 <h2> Key Projects:</h2>
 
