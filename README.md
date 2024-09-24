@@ -22,8 +22,14 @@
   <li><b>CompTIA Network+</b> (In Progress, expected completion in November)</li>
 </ul>
 
-<h2>Connect with me:</h2>
+<h2>Thank You for Visiting My Page!</h2>
 
-[<img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.</p>
+<h2><a href="https://calendly.com/grandviewsuccess-evan/quick-chat-with-evan">Let's Chat</a></h2>
 
-[linkedin]: https://linkedin.com/in/evan-yearwood/
+<h3>Socials:</h3>
+
+<a href="https://linkedin.com/in/evan-yearwood/">
+  <img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
