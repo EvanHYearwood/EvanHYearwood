@@ -13,6 +13,15 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) (Video in progress)
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) (Video in progress)
+ 
+
+- <b>Coding Languages</b>
+  - [Python Algorithm for User Access Management](https://github.com/EvanHYearwood/puam) (In Progress)
+  - [SQL-Driven Security Investigation: Analyzing Employee Login Patterns and Machine Access](https://github.com/EvanHYearwood/a) (In progress)
+  - [Enforcing "Least Privilege" Security: Managing File Permissions on Linux](https://github.com/EvanHYearwood/a) (In progress)
+
+ - <b></b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
 
 <h2>Certifications:</h2>
 <ul>
