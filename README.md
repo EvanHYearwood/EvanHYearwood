@@ -18,18 +18,24 @@
 - <b>Coding Languages</b>
   - [Python Algorithm for User Access Management](https://github.com/EvanHYearwood/puam) (In Progress)
   - [SQL-Driven Security Investigation: Analyzing Employee Login Patterns and Machine Access](https://github.com/EvanHYearwood/a) (In progress)
-  - [Enforcing "Least Privilege" Security: Managing File Permissions on Linux](https://github.com/EvanHYearwood/a) (In progress)
-
- - <b></b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
+  - [Linux - Enforcing "Least Privilege" Security: Managing File Permissions](https://github.com/EvanHYearwood/a) (In progress)
 
 <h2>Certifications:</h2>
 <ul>
   <li><b>Google Cyber Security Professional Certification</b> (Completed a 6-month course)</li>
+  <li><b>Tools of the Trade: Linux and SQL</li>
   <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
+  <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
   <li><b>CourseCareers IT Professional</b></li>
-  <li><b>CompTIA Network+</b> (In Progress, expected completion in November)</li>
 </ul>
+
+<h2>Currently Training:</h2>
+<ul>
+  <li><b>MS-900 - Microsoft 365 Certified: Fundamentals (Expected October 31st)</li>
+  <li><b>MD-102 - ​​Microsoft 365 Endpoint Administrator  (Expected November 2024)</li>
+  <li><b>CompTIA Network+ N10-009 (Expected November 2024)</li>
+</ul>
+
 
 <h2>Thank You for Visiting My Page!</h2>
 
