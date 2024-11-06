@@ -13,6 +13,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) (Video in progress)
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) (Video in progress)
  
+- <b>Assets, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
+  - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
 
 - <b>Coding Languages</b>
   - [Simple Python Algorithm for User Access Management](https://github.com/EvanHYearwood/python-user-access-management)
