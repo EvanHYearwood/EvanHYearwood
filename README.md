@@ -15,7 +15,7 @@
  
 
 - <b>Coding Languages</b>
-  - [Python Algorithm for User Access Management](https://github.com/EvanHYearwood/python-user-access-management)
+  - [Simple Python Algorithm for User Access Management](https://github.com/EvanHYearwood/python-user-access-management)
   - [SQL-Driven Security Investigation: Analyzing Employee Login Patterns and Machine Access](https://github.com/EvanHYearwood/sql-investigation/)
   - [Linux - Enforcing "Least Privilege" Security: Managing File Permissions](https://github.com/EvanHYearwood/linux-file-permisions/)
 
