@@ -23,8 +23,7 @@
 
 <h2>Certifications:</h2>
 <ul>
-  <li><b>Google Cyber Security Professional Certification</b> (Completed a 6-month course)</li>
-  <li><b>Tools of the Trade: Linux and SQL</li>
+  <li><b>Google Cyber Security Professional Certification</b> </li>
   <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
   <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
   <li><b>CourseCareers IT Professional</b></li>
@@ -32,9 +31,7 @@
 
 <h2>Currently Training:</h2>
 <ul>
-  <li><b>MS-900 - Microsoft 365 Certified: Fundamentals (Expected November 30th)</li>
-  <li><b>MD-102 - ​​Microsoft 365 Endpoint Administrator  (Expected December 2024)</li>
-  <li><b>CompTIA Network+ N10-009 (Expected December 2024)</li>
+  <li><b>MS-900 - Microsoft 365 Certified: Fundamentals (Studying)</li>
 </ul>
 
 
