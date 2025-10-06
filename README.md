@@ -3,15 +3,15 @@
 <h2> Key Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) 
-  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config)
-  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) (Video Included)
+  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config) (Video Included)
+  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle) (Video Included)
  
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) (Video in progress)
-  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) (Video in progress)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) (Video Included)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols)
+  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config)
  
 - <b>Assets, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
