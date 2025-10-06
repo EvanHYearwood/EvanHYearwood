@@ -2,6 +2,12 @@
 
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 
+- <b>Identity Lifecycle Management (Joiner–Mover–Leaver)(Not Started)</b>
+- <b>MFA & SSO Implementation(Not Started)</b>
+- <b>Access Review & Compliance Reporting(Not Started)</b>
+- <b>Directory Synchronization & Federation(Not Started)</b>
+- <b>API Fundamentals & Provisioning(Not Started)</b>
+
 <h2> IT Support Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
