@@ -2,11 +2,12 @@
 
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 
-- <b>Identity Lifecycle Management (Joiner–Mover–Leaver)(Not Started)</b>
-- <b>MFA & SSO Implementation(Not Started)</b>
-- <b>Access Review & Compliance Reporting(Not Started)</b>
-- <b>Directory Synchronization & Federation(Not Started)</b>
-- <b>API Fundamentals & Provisioning(Not Started)</b>
+
+- <li>Identity Lifecycle Management (Joiner–Mover–Leaver)<b>(Not Started)</b></li>
+- <li>MFA & SSO Implementation<b>(Not Started)</b></li>
+- <li>Access Review & Compliance Reporting<b>(Not Started)</b></li>
+- <li>Directory Synchronization & Federation<b>(Not Started)</b></li>
+- <li>API Fundamentals & Provisioning<b>(Not Started)</b></li>
 
 <h2> IT Support Projects:</h2>
 
