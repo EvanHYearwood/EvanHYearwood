@@ -35,10 +35,7 @@
 </ul>
 
 
-<h2>Thank You for Visiting My Page!</h2>
-
-<p>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.</p>
-<h2><a href="https://calendly.com/grandviewsuccess-evan/quick-chat-with-evan">Let's Chat</a></h2>
+<h2>Thank You for Visiting My Page! Feel free to connect with my on my LinkedIn!</h2>
 
 <h3>Socials:</h3>
 
