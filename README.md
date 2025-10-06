@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist.</a></h1> 
+<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
 
 <h2> Key Projects:</h2>
 
