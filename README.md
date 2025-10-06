@@ -1,6 +1,8 @@
 <h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
 
-<h2> Key Projects:</h2>
+<h2> Identity Access Management Projects:</h2>
+
+<h2> IT Support Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) (Video Included)
