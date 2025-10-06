@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
 
-<h2> T1 - IAM Projects (Okta / Microsoft Azure):</h2>
+<h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 
 <h2> IT Support Projects:</h2>
 
