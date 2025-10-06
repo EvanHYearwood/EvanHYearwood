@@ -4,10 +4,14 @@
 
 - Identity Lifecycle Management (Joiner–Mover–Leaver)
   - <b>(Not Started)</b>
-- MFA & SSO Implementation<b>(Not Started)</b>
-- Access Review & Compliance Reporting<b>(Not Started)</b>
-- Directory Synchronization & Federation<b>(Not Started)</b>
-- API Fundamentals & Provisioning<b>(Not Started)</b>
+- MFA & SSO Implementation
+  - <b>(Not Started)</b>
+- Access Review & Compliance Reporting
+  - <b>(Not Started)</b>
+- Directory Synchronization & Federation
+  - <b>(Not Started)</b>
+- API Fundamentals & Provisioning
+  - <b>(Not Started)</b>
 
 <h2> IT Support Projects:</h2>
 
