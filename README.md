@@ -6,7 +6,7 @@
   - <b>(Not Started)</b>
     <code>█████▒▒▒▒▒ 50%</code>
 - MFA & SSO Implementation
-  - <b>(Not Started)</b>
+  - <b>(Not Started)</b>  <code>█████▒▒▒▒▒ 50%</code>
 - Access Review & Compliance Reporting
   - <b>(Not Started)</b>
 - Directory Synchronization & Federation
