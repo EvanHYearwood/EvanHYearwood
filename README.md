@@ -11,7 +11,7 @@
   <li>
     MFA & SSO Implementation<br>
     <b>Status:</b> Not Started<br>
-    <progress value="0" max="100"></progress>
+    <progress value="10" max="100"></progress>
   </li>
   <li>
     Access Review & Compliance Reporting<br>
