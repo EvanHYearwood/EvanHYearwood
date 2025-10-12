@@ -4,6 +4,7 @@
 
 - Identity Lifecycle Management (Joiner–Mover–Leaver)
   - <b>(Not Started)</b>
+    <code>█████▒▒▒▒▒ 50%</code>
 - MFA & SSO Implementation
   - <b>(Not Started)</b>
 - Access Review & Compliance Reporting
