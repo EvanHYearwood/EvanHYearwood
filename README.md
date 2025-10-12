@@ -71,7 +71,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols)
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config)
 
-<h2>Google Cyber Security (Coursera) Projects:</h2>
+<h2>Google (Coursera) Projects:</h2>
  
 - <b>Assets, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
