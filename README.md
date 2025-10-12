@@ -87,10 +87,6 @@
   <li><b>CourseCareers IT Professional</b></li>
 </ul>
 
-<h2>Currently Training:</h2>
-<ul>
-  <li><b>MS-900 - Microsoft 365 Certified: Fundamentals (Studying)</li>
-</ul>
 
 
 <h2>Thank You for Visiting My Page! Feel free to connect with my on my LinkedIn!</h2>
