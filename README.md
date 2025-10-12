@@ -3,16 +3,32 @@
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 
 - Identity Lifecycle Management (Joiner–Mover–Leaver)
-  - <b>(Not Started)</b>
-    <code>█████▒▒▒▒▒ 50%</code>
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
 - MFA & SSO Implementation
-  - <b>(Not Started)</b>  <code>█████▒▒▒▒▒ 50%</code>
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
 - Access Review & Compliance Reporting
-  - <b>(Not Started)</b>
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
 - Directory Synchronization & Federation
-  - <b>(Not Started)</b>
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
 - API Fundamentals & Provisioning
-  - <b>(Not Started)</b>
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  
+<h3>Relevant Certifications:</h3>
+- MS-900: Microsoft 365 Fundamentals
+  - <b>(Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- AZ-900: Azure Fundamentals
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- SC-900: Security, Compliance, and Identity Fundamentals
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- SC-300: Identity and Access Administrator Associate
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- Postman Api Fundamentals
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- Okta Certified Professional
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+- CompTia Security +
+  - <b>(Not Started)</b>  <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+
 
 <h2> IT Support Projects:</h2>
 
