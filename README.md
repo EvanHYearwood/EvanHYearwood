@@ -29,7 +29,7 @@
 <ul>
   <li>
     MS-900: Microsoft 365 Fundamentals<br>
-    <b><span style="color:orange;">(Started)</span></b> <code>████████▒▒ 80%</code>
+    <b><span style="color:orange;">(Started)</span></b> <code>█████████▒ 90%</code>
   </li>
   <li>
     AZ-900: Azure Fundamentals<br>
