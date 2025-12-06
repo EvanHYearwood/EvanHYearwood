@@ -30,6 +30,7 @@
   <li>
     MS-900: Microsoft 365 Fundamentals<br>
     <b><span style="color:orange;">(Completed)</span></b> <code>100%</code>
+    [Certificate & Mindmap](https://github.com/EvanHYearwood/MS900Certificate)
   </li>
   <li>
     AZ-900: Azure Fundamentals<br>
