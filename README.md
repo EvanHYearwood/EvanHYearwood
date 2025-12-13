@@ -34,7 +34,7 @@
   </li>
   <li>
     AZ-900: Azure Fundamentals<br>
-    <b><span style="color:red;">(Started)</span></b> <code>█▒▒▒▒▒▒▒▒▒ 10%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>███▒▒▒▒▒▒▒ 30%</code>
   </li>
   <li>
     SC-900: Security, Compliance, and Identity Fundamentals<br>
