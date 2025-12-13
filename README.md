@@ -84,6 +84,7 @@
 
 <h2>Certifications:</h2>
 <ul>
+  <li><b>MS-900: Microsoft 365 Fundamentals</b> </li> 
   <li><b>Google Cyber Security Professional Certification</b> </li>
   <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
   <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
