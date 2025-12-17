@@ -1,3 +1,64 @@
+<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
+
+<h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
+<ul>
+  <li>
+    Identity Lifecycle Management (Joiner–Mover–Leaver)<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    MFA & SSO Implementation<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Access Review & Compliance Reporting<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Directory Synchronization & Federation<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    API Fundamentals & Provisioning<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+</ul>
+
+<h3>Relevant Certifications:</h3>
+
+<ul>
+  <li>
+    MS-900: Microsoft 365 Fundamentals<br>
+    <b><span style="color:orange;">(Completed)</span></b> <code>100%</code>
+    <a href="https://learn.microsoft.com/en-us/users/evanyearwood-3556/credentials/bfe3633bbbcb1913">View Certificate</a>
+  </li>
+  <li>
+    AZ-900: Azure Fundamentals<br>
+    <b><span style="color:red;">(Started)</span></b> <code>███▒▒▒▒▒▒▒ 30%</code>
+  </li>
+  <li>
+    SC-900: Security, Compliance, and Identity Fundamentals<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    SC-300: Identity and Access Administrator Associate<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Postman API Fundamentals<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Okta Certified Professional<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    CompTIA Security+<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+</ul>
+
+
 <h2> IT Support Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
