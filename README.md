@@ -3,23 +3,23 @@
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 <ul>
   <li>
-    Identity Lifecycle Management (Joiner–Mover–Leaver)<br>
+    Hybrid Identity Lifecycle Automation (Joiner/Mover/Leaver) with AD + Entra ID<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
   <li>
-    MFA & SSO Implementation<br>
+    Role-Based Access Control (RBAC) and Conditional Access Policy Baseline<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
   <li>
-    Access Review & Compliance Reporting<br>
+    Just-In-Time Privileged Access with Entra PIM (Approvals, Time Limits, and Alerts) <br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
   <li>
-    Directory Synchronization & Federation<br>
+    Quarterly Access Review and Audit Evidence Automation (RBAC + Logs + Findings Closure) <br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
   <li>
-    API Fundamentals & Provisioning<br>
+    Service Desk Access Requests with Automated Provisioning + Full Audit Trail<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
 </ul>
