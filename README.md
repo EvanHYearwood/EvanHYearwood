@@ -22,6 +22,10 @@
     Service Desk Access Requests with Automated Provisioning + Full Audit Trail<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
+    <li>
+    App Integration<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
 </ul>
 
 <h3>Relevant Certifications:</h3>
