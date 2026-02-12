@@ -3,6 +3,10 @@
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 <ul>
   <li>
+    Foundational Skill W/ Microsoft Entra/Okta/Active Directory<br>
+    <b><span style="color:red;">(Started)</span></b> <code>██▒▒▒▒▒▒▒▒ 15%</code>
+  </li>
+  <li>
     Hybrid Identity Lifecycle Automation (Joiner/Mover/Leaver) with AD + Entra ID<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
