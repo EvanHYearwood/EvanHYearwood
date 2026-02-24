@@ -44,6 +44,10 @@
     AZ-900: Azure Fundamentals<br>
     <b><span style="color:red;">(Started)</span></b> <code>█████████▒ 90%</code>
   </li>
+    <li>
+    AZ-800: Microsoft Certified: Windows Server Hybrid Administrator Associate<br>
+    <b><span style="color:red;">(Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
   <li>
     SC-900: Security, Compliance, and Identity Fundamentals<br>
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
