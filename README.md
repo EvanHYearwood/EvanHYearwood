@@ -4,7 +4,7 @@
 <ul>
   <li>
     Foundational Skills W/ Microsoft Entra/Okta/Active Directory<br>
-    <b><span style="color:red;">(Started)</span></b> <code>██▒▒▒▒▒▒▒▒ 15%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>█████▒▒▒▒▒ 45%</code>
   </li>
   <li>
     Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
