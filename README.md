@@ -4,11 +4,11 @@
 <ul>
   <li>
     Foundational Skills W/ Microsoft Entra/Okta/Active Directory<br>
-    <b><span style="color:red;">(Started)</span></b> <code>█████▒▒▒▒▒ 45%</code>
+    <b><span style="color:red;">(Complete)</span></b> <code>██████████ 100%</code>
   </li>
   <li>
     Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>██▒▒▒▒▒▒▒▒ 20%</code>
   </li>
   <li>
     RBAC and Conditional Access Policy Baseline<br>
