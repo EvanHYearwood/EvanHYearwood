@@ -27,8 +27,8 @@
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
     <li>
-    App Integration<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    App Integration (SAML)<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>██████████ 100%</code>
   </li>
 </ul>
 
