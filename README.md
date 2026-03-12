@@ -8,11 +8,11 @@
   </li>
   <li>
     Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
-    <b><span style="color:red;">(Started)</span></b> <code>██▒▒▒▒▒▒▒▒ 20%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>████▒▒▒▒▒▒ 40%</code>
   </li>
   <li>
     RBAC and Conditional Access Policy Baseline<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>███▒▒▒▒▒▒▒ 30%</code>
   </li>
   <li>
     Just-In-Time Privileged Access with Entra PIM (Approvals, Time Limits, and Alerts) <br>
