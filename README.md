@@ -28,7 +28,7 @@
   </li>
     <li>
     Custom App Integration W/ Okta (SAML)<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>██████████ 100%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>██████████ 100%</code>
   </li>
 </ul>
 
