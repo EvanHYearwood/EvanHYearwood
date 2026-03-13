@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
+<h1>Hi, I'm Evan, a <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
 
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 <ul>
@@ -6,12 +6,12 @@
     Foundational Skills W/ Microsoft Entra/Okta/Active Directory<br>
     <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
   </li>
-    <li>
+  <li>
     Custom App Integration W/ Okta (SAML)<br>
     <b><span style="color:red;">(Started)</span></b> <code>100%</code>
   </li>  
   <li>
-    [RBAC W/ Custom Saml APPs Active Directory -> Okta](https://github.com/EvanHYearwood/RBAC-W-AD-Okta)<br>
+    <a href="https://github.com/EvanHYearwood/RBAC-W-AD-Okta">RBAC W/ Custom Saml APPs Active Directory -> Okta</a><br>
     <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
   </li>  
   <li>
@@ -31,7 +31,6 @@
     <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
   </li>
 </ul>
-
 <h3>Relevant Certifications:</h3>
 
 <ul>
