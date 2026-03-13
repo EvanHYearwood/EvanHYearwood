@@ -4,31 +4,31 @@
 <ul>
   <li>
     Foundational Skills W/ Microsoft Entra/Okta/Active Directory<br>
-    <b><span style="color:red;">(Complete)</span></b> <code>██████████ 100%</code>
-  </li>
-  <li>
-    Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
-    <b><span style="color:red;">(Started)</span></b> <code>████▒▒▒▒▒▒ 40%</code>
-  </li>
-  <li>
-    RBAC and Conditional Access Policy Baseline<br>
-    <b><span style="color:red;">(Started)</span></b> <code>███▒▒▒▒▒▒▒ 30%</code>
-  </li>
-  <li>
-    Just-In-Time Privileged Access with Entra PIM (Approvals, Time Limits, and Alerts) <br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Quarterly Access Review and Audit Evidence Automation (RBAC + Logs + Findings Closure) <br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Service Desk Access Requests with Automated Provisioning + Full Audit Trail<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
   </li>
     <li>
     Custom App Integration W/ Okta (SAML)<br>
-    <b><span style="color:red;">(Started)</span></b> <code>██████████ 100%</code>
+    <b><span style="color:red;">(Started)</span></b> <code>100%</code>
+  </li>  
+  <li>
+    [RBAC W/ Custom Saml APPs Active Directory -> Okta](https://github.com/EvanHYearwood/RBAC-W-AD-Okta)<br>
+    <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
+  </li>  
+  <li>
+    Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
+    <b><span style="color:red;">(Started)</span></b> <code>60%</code>
+  </li>
+  <li>
+    Just-In-Time Privileged Access with Entra PIM (Approvals, Time Limits, and Alerts) <br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
+  </li>
+  <li>
+    Quarterly Access Review and Audit Evidence Automation (RBAC + Logs + Findings Closure) <br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
+  </li>
+  <li>
+    Service Desk Access Requests with Automated Provisioning + Full Audit Trail<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
   </li>
 </ul>
 
