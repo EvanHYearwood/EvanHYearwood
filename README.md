@@ -11,7 +11,7 @@
     <b><span style="color:red;">(Started)</span></b> <code>100%</code>
   </li>  
   <li>
-    <a href="https://github.com/EvanHYearwood/RBAC-W-AD-Okta">RBAC W/ Custom Saml APPs Active Directory -> Okta</a><br>
+    <a href="https://github.com/EvanHYearwood/RBAC-W-AD-Okta">RBAC W/ Custom Saml APPs Active Directory -> Okta</a> <b>(Video Included)</b><br>
     <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
   </li>  
   <li>
@@ -31,6 +31,8 @@
     <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
   </li>
 </ul>
+
+
 <h3>Relevant Certifications:</h3>
 
 <ul>
