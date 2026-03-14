@@ -10,34 +10,25 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AD_%2F_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0_%2F_SAML-FF6B35?style=flat-square" />
-  <img src="https://img.shields.io/badge/RBAC-555555?style=flat-square" />
-</p>
-
 ---
 
-## 01 · IAM Projects (Okta / Microsoft Entra)
+## Identity & Access Management
 
 | Project | Stack | Status |
 |---|---|---|
-| [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) ▶ | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **Custom App Integration w/ Okta (SAML)** | Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Identity Lifecycle Automation — Joiner / Mover / Leaver** | AD · Entra ID | ![60%](https://img.shields.io/badge/In_Progress-60%25-e3a008?style=flat-square) |
-| **Cert-Based Auth — PowerShell × Okta API** `private_key_jwt` | PowerShell · OAuth 2.0 · RSA · JWT | ![Active](https://img.shields.io/badge/In_Progress-Active-e3a008?style=flat-square) |
+| [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) ▶ | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Identity Lifecycle Automation — Joiner / Mover / Leaver** | AD · Entra ID | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Cert-Based Auth — PowerShell × Okta API** `private_key_jwt` | PowerShell · OAuth 2.0 · RSA · JWT | ![Queued](https://img.shields.io/badge/In_Progress-Active-e3a008?style=flat-square) |
 | **Just-In-Time Privileged Access — Entra PIM** | Entra ID · PIM | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 | **Quarterly Access Review & Audit Automation** | RBAC · Logs | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 | **Service Desk Access Requests + Automated Provisioning** | Full audit trail | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 
-> **Focus area:** Eliminating standing secrets by replacing API tokens with certificate-based authentication (RSA + `private_key_jwt` / OAuth 2.0 Client Credentials flow). Covers cert generation, Okta API Services app config, JWT signing, token exchange, and AD group sync via PowerShell — with GitHub portfolio write-up.
+> **Focus area:** Managing identity across hybrid environments. Bridging on-premises Active Directory and cloud platforms like Okta and Microsoft Entra ID. Projects cover the full IAM lifecycle: provisioning, access reviews, privileged access, and offboarding, with PowerShell automation at each stage to reduce manual effort and enforce consistent policy at scale.
 
 ---
 
-## 02 · IT Support Projects
+## 2 · IT Support Projects
 
 ### Help Desk (osTicket)
 
