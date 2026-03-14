@@ -1,7 +1,10 @@
-<h1 align="center">Evan Yearwood</h1>
+<h1 align="center">Evan H. Yearwood</h1>
 
 <p align="center">
-  <em>Technical Support Specialist @ Yext &nbsp;·&nbsp; IAM & Cybersecurity Portfolio</em>
+  <em>Security Engineer</em>
+</p>
+<p align="center">
+<em>Technical Support Specialist @ Yext</em>
 </p>
 
 <p align="center">
@@ -12,9 +15,19 @@
 
 ---
 
+> **Portfolio Note**
+>
+> The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) professional working in enterprise environments**.  
+>  
+> Each project focuses on practical security engineering tasks such as identity lifecycle automation, RBAC design, access governance, privileged access management, and integration between systems like **Active Directory, Okta, and Microsoft Entra ID**.  
+>  
+> The goal is to demonstrate **how a security engineer designs, automates, and manages identity systems at scale**, using scripting, identity platforms, and security best practices to enforce consistent access control across hybrid environments.
+
+---
+
 ## Identity & Access Management
 
-| Project | Proof | Stack | Status |
+| Workflow Project | Proof | Stack | Status |
 |---|---|---|---|
 | **Custom App Integration w/ Okta (SAML)** | |Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) | ![Video](https://img.shields.io/badge/▶_Video_Included-red?style=flat-square) | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
