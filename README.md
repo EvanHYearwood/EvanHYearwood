@@ -14,7 +14,7 @@
 
 ## Identity & Access Management
 
-| Project | Video | Stack | Status |
+| Project | Proof | Stack | Status |
 |---|---|---|---|
 | **Custom App Integration w/ Okta (SAML)** | |Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) | ![Video](https://img.shields.io/badge/▶_Video_Included-red?style=flat-square) | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
