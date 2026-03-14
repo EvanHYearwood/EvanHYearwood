@@ -29,7 +29,7 @@
 
 | Workflow Project | Proof | Stack | Status |
 |---|---|---|---|
-| **Custom App Integration w/ Okta (SAML)** | |Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**Custom App Integration w/ Okta (SAML)**](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/tree/main) | |Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) | ![Video](https://img.shields.io/badge/▶_Video_Included-red?style=flat-square) | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **Identity Lifecycle Automation — Joiner / Mover / Leaver** || AD · Okta | ![Queued](https://img.shields.io/badge/In_Progress-Active-e3a008?style=flat-square) |
 | **Cert-Based Auth — PowerShell × Okta API** `private_key_jwt` || PowerShell · OAuth 2.0 · RSA · JWT | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
