@@ -1,116 +1,101 @@
-<h1>Hi, I'm Evan, a <a href="https://linkedin.com/in/evan-yearwood/">Technical Support Specialist @ Yext.</a></h1> 
+<h1 align="center">Evan Yearwood</h1>
 
-<h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
-<ul>
-  <li>
-    Foundational Skills W/ Microsoft Entra/Okta/Active Directory<br>
-    <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
-  </li>
-  <li>
-    Custom App Integration W/ Okta (SAML)<br>
-    <b><span style="color:red;">(Started)</span></b> <code>100%</code>
-  </li>  
-  <li>
-    <a href="https://github.com/EvanHYearwood/RBAC-W-AD-Okta">RBAC W/ Custom Saml APPs Active Directory -> Okta</a> <b>(Video Included)</b><br>
-    <b><span style="color:red;">(Complete)</span></b> <code>100%</code>
-  </li>  
-  <li>
-    Identity Lifecycle Automation (Joiner/Mover/Leaver) (AD + Entra ID)<br>
-    <b><span style="color:red;">(Started)</span></b> <code>60%</code>
-  </li>
-  <li>
-    Just-In-Time Privileged Access with Entra PIM (Approvals, Time Limits, and Alerts) <br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
-  </li>
-  <li>
-    Quarterly Access Review and Audit Evidence Automation (RBAC + Logs + Findings Closure) <br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
-  </li>
-  <li>
-    Service Desk Access Requests with Automated Provisioning + Full Audit Trail<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>0%</code>
-  </li>
-</ul>
+<p align="center">
+  <em>Technical Support Specialist @ Yext &nbsp;·&nbsp; IAM & Cybersecurity Portfolio</em>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/evan-yearwood/">
+    <img src="https://img.shields.io/badge/LinkedIn-evan--yearwood-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<h3>Relevant Certifications:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AD_%2F_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0_%2F_SAML-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-555555?style=flat-square" />
+</p>
 
-<ul>
-  <li>
-    MS-900: Microsoft 365 Fundamentals<br>
-    <b><span style="color:orange;">(Completed)</span></b> <code>100%</code>
-    <a href="https://learn.microsoft.com/en-us/users/evanyearwood-3556/credentials/bfe3633bbbcb1913">View Certificate</a>
-  </li>
-  <li>
-    AZ-900: Azure Fundamentals<br>
-    <b><span style="color:red;">(Started)</span></b> <code>█████████▒ 90%</code>
-  </li>
-    <li>
-    AZ-800: Microsoft Certified: Windows Server Hybrid Administrator Associate<br>
-    <b><span style="color:red;">(Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    SC-900: Security, Compliance, and Identity Fundamentals<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    SC-300: Identity and Access Administrator Associate<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Postman API Fundamentals<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Okta Certified Professional<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    CompTIA Security+<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-</ul>
+---
 
+## 01 · IAM Projects (Okta / Microsoft Entra)
 
-<h2> IT Support Projects:</h2>
+| Project | Stack | Status |
+|---|---|---|
+| [**RBAC w/ Custom SAML Apps — Active Directory → Okta**](https://github.com/EvanHYearwood/RBAC-W-AD-Okta) ▶ | AD · Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Custom App Integration w/ Okta (SAML)** | Okta · SAML | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Identity Lifecycle Automation — Joiner / Mover / Leaver** | AD · Entra ID | ![60%](https://img.shields.io/badge/In_Progress-60%25-e3a008?style=flat-square) |
+| **Cert-Based Auth — PowerShell × Okta API** `private_key_jwt` | PowerShell · OAuth 2.0 · RSA · JWT | ![Active](https://img.shields.io/badge/In_Progress-Active-e3a008?style=flat-square) |
+| **Just-In-Time Privileged Access — Entra PIM** | Entra ID · PIM | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
+| **Quarterly Access Review & Audit Automation** | RBAC · Logs | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
+| **Service Desk Access Requests + Automated Provisioning** | Full audit trail | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 
-- <b>osTicket (Building a Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) (Video Included)
-  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config) (Video Included)
-  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle) (Video Included)
- 
+> **Focus area:** Eliminating standing secrets by replacing API tokens with certificate-based authentication (RSA + `private_key_jwt` / OAuth 2.0 Client Credentials flow). Covers cert generation, Okta API Services app config, JWT signing, token exchange, and AD group sync via PowerShell — with GitHub portfolio write-up.
 
-- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) (Video Included)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols)
-  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config)
+---
 
-<h2>Google (Coursera) Projects:</h2>
- 
-- <b>Assets, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
-  - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
+## 02 · IT Support Projects
 
-- <b>Coding Languages</b>
-  - [Simple Python Algorithm for User Access Management](https://github.com/EvanHYearwood/python-user-access-management)
-  - [SQL-Driven Security Investigation: Analyzing Employee Login Patterns and Machine Access](https://github.com/EvanHYearwood/sql-investigation/)
-  - [Linux - Enforcing "Least Privilege" Security: Managing File Permissions](https://github.com/EvanHYearwood/linux-file-permisions/)
+### Help Desk (osTicket)
 
-<h2>Certifications:</h2>
-<ul>
-  <li><b>MS-900: Microsoft 365 Fundamentals</b> </li> 
-  <li><b>Google Cyber Security Professional Certification</b> </li>
-  <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
-  <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
-  <li><b>CourseCareers IT Professional</b></li>
-</ul>
+| Project | Notes |
+|---|---|
+| [Prerequisites & Installation](https://github.com/EvanHYearwood/osticket-prereqs) | ▶ Video included |
+| [Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config) | ▶ Video included |
+| [Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle) | ▶ Video included |
 
+### Microsoft Azure / Active Directory
 
+| Project | Notes |
+|---|---|
+| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) | ▶ Video included |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/EvanHYearwood/azure-network-protocols) | Wireshark |
+| [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) | Azure |
 
-<h2>Thank You for Visiting My Page! Feel free to connect with my on my LinkedIn!</h2>
+---
 
-<h3>Socials:</h3>
+## 03 · Security Projects
 
-<a href="https://linkedin.com/in/evan-yearwood/">
-  <img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+| Project | Focus |
+|---|---|
+| [Internal Security Audit — Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys) | Risk assessment · audit evidence · mitigation |
+| [Python Algorithm — User Access Management](https://github.com/EvanHYearwood/python-user-access-management) | Scripted RBAC logic |
+| [SQL Security Investigation — Login & Machine Access Patterns](https://github.com/EvanHYearwood/sql-investigation/) | Threat analysis · access logs |
+| [Linux — Enforcing Least Privilege via File Permissions](https://github.com/EvanHYearwood/linux-file-permisions/) | Hardening · principle of least privilege |
 
+---
+
+## 04 · Certifications
+
+**Earned**
+
+![MS-900](https://img.shields.io/badge/MS--900_Microsoft_365_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+[![View](https://img.shields.io/badge/View_Certificate-lightgrey?style=flat-square)](https://learn.microsoft.com/en-us/users/evanyearwood-3556/credentials/bfe3633bbbcb1913)
+
+![Google Cyber](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
+
+![SBT](https://img.shields.io/badge/Security_Blue_Team_–_Network_Analysis-1b6ca8?style=flat-square)
+
+![HTB](https://img.shields.io/badge/HackTheBox_–_Network_Traffic_Analysis-9FEF00?style=flat-square&logoColor=black)
+
+**In Progress**
+
+![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-90%25-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Queued**
+
+![AZ-800](https://img.shields.io/badge/AZ--800_Windows_Server_Hybrid_Admin-queued-888888?style=flat-square)
+![SC-900](https://img.shields.io/badge/SC--900_Security_%26_Compliance-queued-888888?style=flat-square)
+![SC-300](https://img.shields.io/badge/SC--300_Identity_%26_Access_Admin-queued-888888?style=flat-square)
+![Okta Pro](https://img.shields.io/badge/Okta_Certified_Professional-queued-888888?style=flat-square)
+![Sec+](https://img.shields.io/badge/CompTIA_Security%2B-queued-888888?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman_API_Fundamentals-queued-888888?style=flat-square)
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/evan-yearwood/">Connect on LinkedIn</a>
+</p>
