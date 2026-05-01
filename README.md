@@ -1,7 +1,7 @@
 <h1 align="center">Evan H. Yearwood</h1>
 
 <p align="center">
-  <em>IAM Analyst</em>
+  <em></em>
 </p>
 <p align="center">
 <em>Technical Support Specialist @ Yext</em>
