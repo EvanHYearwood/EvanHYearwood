@@ -4,7 +4,7 @@
   <em></em>
 </p>
 <p align="center">
-<em>Technical Support Specialist @ Yext</em>
+<em>IT Systems & IAM Analst @ IntusCare</em>
 </p>
 
 <p align="center">
