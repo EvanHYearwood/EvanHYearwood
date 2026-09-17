@@ -4,7 +4,7 @@
   <em></em>
 </p>
 <p align="center">
-<em>IT Systems & IAM Analst @ IntusCare</em>
+<em>IT Systems & IAM Analyst @ IntusCare</em>
 </p>
 
 <p align="center">
@@ -26,6 +26,14 @@
 ---
 
 ## Identity & Access Management
+
+### 🆕 Latest
+
+| Workflow Project | Proof | Purpose | Stack | Status |
+|---|---|---|---|---|
+| [**Identity Offboarding Automation**](https://github.com/EvanHYearwood/nmg-identity-automation) | Video & Evidence Included | Built over 30 days for a simulated healthcare environment. A retired HR coordinator's termination emails went unread for 102 days, leaving 23 orphaned accounts live. This project finds stale accounts directly from the domain controller, offboards them atomically with rollback, validates bulk HR lists against the directory before any action, and produces examiner-ready evidence for every account touched. | Active Directory · PowerShell · CSV · Git | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+
+### Completed
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
