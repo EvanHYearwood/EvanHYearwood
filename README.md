@@ -31,7 +31,7 @@
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| [**Identity Offboarding Automation**](https://github.com/EvanHYearwood/nmg-identity-automation) | Video & Evidence Included | Built over 30 days for a simulated healthcare environment. A retired HR coordinator's termination emails went unread for 102 days, leaving 23 orphaned accounts live. This project finds stale accounts directly from the domain controller, offboards them atomically with rollback, validates bulk HR lists against the directory before any action, and produces examiner-ready evidence for every account touched. | Active Directory · PowerShell · CSV · Git | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**Identity Offboarding Automation**](https://github.com/EvanHYearwood/nmg-identity-automation) | Video & Evidence Included | Discovered 23 orphaned accounts left active for 102 days after HR notifications failed. Built a PowerShell toolkit to detect stale identities, offboard them atomically with rollback, validate bulk HR requests against Active Directory before execution, and generate audit evidence for every account. | PowerShell · Active Directory · Identity Lifecycle · Access Revocation · Audit Logging · Git | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ### Completed
 
